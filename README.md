@@ -2,7 +2,8 @@
 
 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/https://www.linkedin.com/in/arad-mehralian-471449277?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsgfKiRDATGWiv4xvrJKPtw%3D%3D/](https://linkedin.com/in/arad-mehralian-471449277))
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arad-mehralian)
+
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:arad.mehralian@gmail.com)
 
