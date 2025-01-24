@@ -10,8 +10,8 @@
 
 
 - 👋 Hi, I’m Arad
-- 👀 I’m interested in Digital electronics and Programming!
-- 🌱 I’m currently learning VHDL, Python and Matlab
+- 👀 I’m interested in Data Science for healthcare and Programming!
+- 🌱 I’m currently learning Python and machine learning.
 - 📫 How to reach me 
      arad.mehralian@gmail.com
 
