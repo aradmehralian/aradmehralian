@@ -1,31 +1,22 @@
-# Arad Mehralian
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+there!+👋;Welcome+to+my+GitHub+Profile;I'm+Arad!" alt="Typing SVG" />
+</p>
 
 
+### 🚀 About Me
+I'm a Data Science student passionate about turning raw data into meaningful insights. My interests lie in Data Processing, Machine Learning, and Image Processing.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arad-mehralian)
+- 🔭 Currently Learning [Data Processing](https://github.com/aradmehralian/data-processing-practice) | [Data Visualization](https://github.com/aradmehralian/data-visualization-practice)
+- 🌱 Learning advanced techniques in Python, NumPy, and Pandas
+- 📫 Reach me at [email](arad.mehralian@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/aradmehralian)
 
-
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:arad.mehralian@gmail.com)
-
-
-
-- 👋 Hi, I’m Arad
-- 👀 I’m interested in Data Science for healthcare and Programming!
-- 🌱 I’m currently learning Python and machine learning.
-- 📫 How to reach me 
-     arad.mehralian@gmail.com
-
-
+### 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-273b58?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=seaborn&logoColor=white)
 
 
-
-<div>
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=aradmehralian&" alt="aradmehralian" />
-</div>
-
-
-
-<!---
-aradmehralian/aradmehralian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aradmehrlian&show_icons=true&theme=radical)
