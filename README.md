@@ -1,6 +1,11 @@
-<p align="center">
-  <img src="https://github.com/aradmehralian/aradmehralian/welcome.gif?raw=true" alt="Welcome Animation" />
-</p>
+<!-- AutoPlay Text -->
+<div align="center">
+  <a href="https://github.com/denvercoder1/readme-typing-svg">
+    <img width="80%" src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=26&duration=2500&pause=1000&color=FA8072&background=FFFFFF00&center=true&vCenter=true&width=700&height=40&lines=Hi+there!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile;I'm+Arad+Mehralian">
+  </a>
+</div>
+
+
 
 
 ### 🚀 About Me
