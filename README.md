@@ -5,12 +5,13 @@
   </a>
 </div>
 
-<h3 align="center"> Data Science Student </h2>
+<h3 align="center"> Data Science Student @ KU Leuven</h3>
 
 
 ## 🚀 About Me
-I have a bachelor's degree in Electrical Engineering and a strong passion for data science, especially data processing and image processing.
-I’m focused on applying data science techniques to uncover insights and drive impactful solutions.
+I am studying for my Master's Degree in Statistics and Data Science. I intend to become a healthcare data scientist, and have a deep passion for medical imaging, image processing, and programming!
+
+My Bachelor's degree was in Electrical Engineering, which sparked my interest in how medical images are obtained, and digital health innovation in general.
 
 - 🔭 Currently Learning [Data Processing](https://github.com/aradmehralian/data-processing-practice) | [Data Visualization](https://github.com/aradmehralian/data-visualization-practice)
 - 🌱 Learning advanced techniques in Python, NumPy, and Pandas
