@@ -1,11 +1,11 @@
 <!-- AutoPlay Text -->
 <div align="center">
   <a href="https://github.com/denvercoder1/readme-typing-svg">
-    <img width="80%" src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=26&duration=2500&pause=1000&color=FA8072&background=FFFFFF00&center=true&vCenter=true&width=700&height=40&lines=Hi+there!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile;I'm+Arad+Mehralian">
+    <img width="80%" src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=26&duration=2500&pause=1000&color=FA8072&background=FFFFFF00&center=true&vCenter=true&width=700&height=40&lines=Hi+there!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile;I'm+Arad">
   </a>
 </div>
 
-<h3 align="center"> Data Science Student @ KU Leuven</h3>
+<h3 align="center"> Statistics & Data Science Student @ KU Leuven</h3>
 
 
 ## 🚀 About Me
